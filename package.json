@@ -1,0 +1,17 @@
+{
+  "name": "7031",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "zrj": "lessc css/index.less css/index.min.css -x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "jquery": "^3.7.0",
+    "less": "^4.2.0"
+  }
+}
